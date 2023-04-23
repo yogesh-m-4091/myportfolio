@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/myportfolio/static/css/main.bd54a8dd.css",
-    "main.js": "/myportfolio/static/js/main.897e92b5.js",
+    "main.css": "/myportfolio/static/css/main.e5e087e3.css",
+    "main.js": "/myportfolio/static/js/main.5b3c6f81.js",
     "static/media/Yogesh CV.pdf": "/myportfolio/static/media/Yogesh CV.932bb8393588168b9783.pdf",
     "static/media/yogiskybluestanding.jpg": "/myportfolio/static/media/yogiskybluestanding.0ce2aa66bf5114975a34.jpg",
     "static/media/yogi_Half2.jpg": "/myportfolio/static/media/yogi_Half2.0306efad19d4cadff3df.jpg",
     "index.html": "/myportfolio/index.html",
-    "main.bd54a8dd.css.map": "/myportfolio/static/css/main.bd54a8dd.css.map",
-    "main.897e92b5.js.map": "/myportfolio/static/js/main.897e92b5.js.map"
+    "main.e5e087e3.css.map": "/myportfolio/static/css/main.e5e087e3.css.map",
+    "main.5b3c6f81.js.map": "/myportfolio/static/js/main.5b3c6f81.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd54a8dd.css",
-    "static/js/main.897e92b5.js"
+    "static/css/main.e5e087e3.css",
+    "static/js/main.5b3c6f81.js"
   ]
 }
